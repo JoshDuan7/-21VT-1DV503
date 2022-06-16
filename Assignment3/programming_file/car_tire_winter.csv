@@ -1,0 +1,56 @@
+prod_id,brand,size,inventory,buying_price,selling_price,change_fee
+v6bpldd,BFGoodrich,14,4,550,650,275
+uull4dd,Casumina,14,1,370,459,275
+y7r5ydd,Goodyear,14,5,450,599,275
+lt9xwdd,IMove,14,0,400,499,275
+bhwzhdd,Michelin,14,6,580,699,275
+irs02dd,Pirelli,14,4,685,799,275
+pzmypdd,Triangle ,14,2,290,399,275
+jq75ldd,Toyo,14,3,380,499,275
+3ey8zdd,Vredestein,14,4,480,499,275
+y7wnedd,Goodyear,15,2,680,795,300
+owy9odd,Starco,15,1,300,499,300
+74en6dd,Cooper Cobra,16,3,780,915,350
+b3vr4dd,Continental,16,4,650,799,350
+y7tp9dd,Goodyear,16,5,750,899,350
+bh024dd,Michelin,16,6,775,895,350
+tktp9dd,Star Performer,16,3,480,589,350
+jqirtdd,Toyo,16,2,610,700,350
+y7xeidd,Goodyear,17,1,889,1095,400
+ijqxtdd,Vittoria,17,4,850,980,400
+bh751dd,Michelin,17,5,1120,1350,400
+ej4ccdd,Apollo,18,4,1000,1250,450
+y7viudd,Goodyear,18,1,1480,1645,450
+an1fbdd,Hangzhou,18,0,1200,1410,450
+nqsm3dd,Kenda,18,2,1300,1550,450
+bhzwodd,Michelin,18,4,1489,1750,450
+rn0o4dd,TVS,18,2,1100,1299,450
+spm9ldd,Yokohama,18,3,1130,1350,450
+1oxeidd,Falken,19,4,1440,1644,500
+b39xwdd,Continental,19,5,1458,1699,500
+y7g03dd,Goodyear,19,2,1225,1415,500
+irfc4dd,Pirelli,19,3,1750,1999,500
+jq52udd,Toyo,19,4,1160,1440,500
+sphvodd,Yokohama,19,2,1225,1550,500
+lv128dd,Zenises,19,1,700,859,500
+yx357dd,Bridgestone,20,2,1655,1899,575
+pl57tdd,Giti,20,3,800,989,575
+y7357dd,Goodyear,20,4,1415,1639,575
+bh6mvdd,Michelin,20,5,1885,2149,575
+7otyjdd,Nitto ,20,2,1530,1715,575
+jqzmydd,Toyo,20,1,1210,1419,575
+t0419dd,Vogue,20,0,1122,1359,575
+spsphdd,Yokohama,20,5,1237,1555,575
+jqpzedd,Toyo,21,2,1530,1780,625
+y7olddd,Goodyear,21,1,1800,2085,625
+bhb80dd,Michelin,21,4,2200,2599,625
+iremadd,Pirelli,21,5,2680,2970,625
+s11cedd,Midas,21,2,980,1150,625
+ze565dd,Big O Tires,22,0,1332,1659,650
+bh6d1dd,Michelin,22,1,3105,3400,650
+s7n48dd,Kumho,22,2,1662,1870,650
+c09rrdd,Carlisle,22,2,1480,1779,650
+jq0ridd,Toyo,22,3,1600,1999,650
+sptqidd,Yokohama,22,4,2268,2757,650
+irhfudd,Pirelli,22,4,3177,3530,650
+y71yqdd,Goodyear,22,1,2218,2674,650
